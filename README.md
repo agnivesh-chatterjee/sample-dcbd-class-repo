@@ -1,2 +1,2 @@
 # sample-dcbd-class-repo
-Random repo made for distributed computing class tutorial to experiment with docker
+Repo made for distributed computing class tutorial to experiment with forking and setting up git in my pc 
